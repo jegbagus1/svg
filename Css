@@ -1,0 +1,1309 @@
+<!-- ===================================
+              START THE HEADER
+            ==================================== -->
+
+
+
+
+
+            <!-- Start main_haeder -->
+                    <header class="default heade-sticky">
+                        <div class="un-title-page">
+                            <h1>VOCA</h1>
+                        </div>
+
+                        <div class="un-block-right">
+
+                            <div class="un-notification">
+                                <a href="page-activity.html" aria-label="activity">
+                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="currentColor" d="M5 18h14v-6.969C19 7.148 15.866 4 12 4s-7 3.148-7 7.031V18zm7-16c4.97 0 9 4.043 9 9.031V20H3v-8.969C3 6.043 7.03 2 12 2zM9.5 21h5a2.5 2.5 0 1 1-5 0z"/></path></svg>
+                                </a>
+                                <span class="bull-activity"></span>
+                            </div>
+<div class='buka-tutup'>
+                            <div class="un-user-profile">
+                                <a href="page-my-profile.html" aria-label="profile">
+
+                                    <picture>
+                                        <source srcset="https://media3.giphy.com/avatars/bronandco/YxpMgT87kdpb.gif" type="image/webp">
+                                        <img class="img-avatar" src="https://media3.giphy.com/avatars/bronandco/YxpMgT87kdpb.gif" alt="" />
+
+
+                                    </source></picture>
+                                </a>
+                            </div>
+   </div>
+
+                            <!-- menu-sidebar -->
+                            <div class="menu-sidebar">
+                                <button type="button" class="btn" data-bs-toggle="modal"
+                                    data-bs-target="#mdllSidebar-connected">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="9.3"
+                                        viewbox="0 0 19 9.3">
+                                        <g id="Group_8081" data-name="Group 8081" transform="translate(-329 -37)">
+                                            <rect id="Rectangle_3986" data-name="Rectangle 3986" width="19" height="2.3"
+                                                rx="1.15" transform="translate(329 37)" fill="#222032" />
+                                            <rect id="Rectangle_3987" data-name="Rectangle 3987" width="19" height="2.3"
+                                                rx="1.15" transform="translate(329 44)" fill="#222032" />
+                                        </rect></rect></g>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                    </header>
+                    <!-- End.main_haeder -->
+<div class="space-sticky"></div>
+          
+<section class="un-section-seller margin-t-20">
+                <!-- un-title-default -->
+                <div class="un-title-default">
+                    <div class="text">
+                        <h2>Best Teacher</h2>
+                        <p>Best teacher of this week's voca</p>
+                    </div>
+                    <div class="un-block-right">
+                        <a href="page-best-seller.html" class="icon-back" aria-label="iconBtn">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243l-1.414-1.415z"/></path></svg>
+                        </a>
+                    </div>
+                </div>
+
+
+            <!-- ===================================
+              START THE BEST SELLER
+            ==================================== -->
+            <section class="un-section-seller margin-t-20">
+                <!-- un-block-auther -->
+                <div class="un-block-creators margin-t-20">
+                    <!-- Swiper -->
+                    <div class="swiper swiperCreators">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <!-- un-item-seller -->
+                                <a href="page-creator-profile.html" class="un-item-seller">
+                                    <div class="number">
+                                        01
+                                    </div>
+                                    <div class="media-profile">
+                                        <figure class="image-avatar">
+                                            <picture>
+                                                <source srcset="https://a.poki.com/icons/fav-512.png" type="image/webp">
+                                                <img src="https://a.poki.com/icons/fav-512.png" alt="" />
+                                            </source></picture>
+                                            <div class="icon-verify">
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="currentColor" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10zm-.997-6l7.07-7.071l-1.414-1.414l-5.656 5.657l-2.829-2.829l-1.414 1.414L11.003 16z"/></path></svg>
+                                            </div>
+                                        </figure>
+                                        <div class="text">
+                                            <h3>POKI GAME</h3>
+                                            <p>60,4 Jt</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- un-item-seller -->
+                                <a href="page-creator-profile.html" class="un-item-seller">
+                                    <div class="number">
+                                        02
+                                    </div>
+                                    <div class="media-profile">
+                                        <figure class="image-avatar">
+                                            <picture>
+                                                <source srcset="https://image.ajunews.com/content/image/2020/06/01/20200601145214875895.jpg" type="image/webp">
+                                                <img src="https://image.ajunews.com/content/image/2020/06/01/20200601145214875895.jpg" alt="" />
+                                            </source></picture>
+                                            <div class="icon-verify">
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="currentColor" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10zm-.997-6l7.07-7.071l-1.414-1.414l-5.656 5.657l-2.829-2.829l-1.414 1.414L11.003 16z"/></path></svg>
+                                            </div>
+                                        </figure>
+                                        <div class="text">
+                                            <h3>BLACKPINK</h3>
+                                            <p>45,6 Jt</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- un-item-seller -->
+                                <a href="page-creator-profile.html" class="un-item-seller">
+                                    <div class="number">
+                                        03
+                                    </div>
+                                    <div class="media-profile">
+                                        <figure class="image-avatar">
+                                            <picture>
+                                                <source srcset="https://i1.sndcdn.com/artworks-000514012125-za2e6c-t500x500.jpg" type="image/webp">
+                                                <img src="https://i1.sndcdn.com/artworks-000514012125-za2e6c-t500x500.jpg" alt="" />
+                                            </source></picture>
+                                            <div class="icon-verify">
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="currentColor" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10zm-.997-6l7.07-7.071l-1.414-1.414l-5.656 5.657l-2.829-2.829l-1.414 1.414L11.003 16z"/></path></svg>
+                                            </div>
+                                        </figure>
+                                        <div class="text">
+                                            <h3>EXO</h3>
+                                            <p>9,7 Jt</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- un-item-seller -->
+                                <a href="page-creator-profile.html" class="un-item-seller">
+                                    <div class="number">
+                                        04
+                                    </div>
+                                    <div class="media-profile">
+                                        <figure class="image-avatar">
+                                            <picture>
+                                                <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2oEQ5vuU5wHgrmhH0z5ZOC7Dwm9K5ArJEVg&usqp=CAU" type="image/webp">
+                                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2oEQ5vuU5wHgrmhH0z5ZOC7Dwm9K5ArJEVg&usqp=CAU" alt="" />
+                                            </source></picture>
+                                            <div class="icon-verify">
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="currentColor" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10zm-.997-6l7.07-7.071l-1.414-1.414l-5.656 5.657l-2.829-2.829l-1.414 1.414L11.003 16z"/></path></svg>
+                                            </div>
+                                        </figure>
+                                        <div class="text">
+                                            <h3>TXT</h3>
+                                            <p>11,4 Jt</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- un-item-seller -->
+                                <a href="page-creator-profile.html" class="un-item-seller">
+                                    <div class="number">
+                                        05
+                                    </div>
+                                    <div class="media-profile">
+                                        <figure class="image-avatar">
+                                            <picture>
+                                                <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxHM-kKWq11vtWTDxReUjqAUGoZYi-oLpGg&usqp=CAU" type="image/webp">
+                                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxHM-kKWq11vtWTDxReUjqAUGoZYi-oLpGg&usqp=CAU" alt="" />
+                                            </source></picture>
+                                            <div class="icon-verify">
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="currentColor" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10zm-.997-6l7.07-7.071l-1.414-1.414l-5.656 5.657l-2.829-2.829l-1.414 1.414L11.003 16z"/></path></svg>
+                                            </div>
+                                        </figure>
+                                        <div class="text">
+                                            <h3>Red Velvet</h3>
+                                            <p>11,2 Jt</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+<!-- ===================================
+              START THE NFT SWIPER
+            ==================================== -->
+            <section class="margin-t-20">
+                <div class="un-block-cards">
+                    <!-- Swiper -->
+                    <div class="swiper nftSwiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <!-- item-card-nft -->
+                                <a href="page-collectibles-details.html" class="item-card-nft --swiper">
+                                    <picture>
+                                        <source srcset="https://i.ibb.co/YcjxtyR/20220305-170220.png" type="image/webp">
+                                        <img class="big-image" src="https://i.ibb.co/YcjxtyR/20220305-170220.png" alt="" />
+                                    </source></picture>
+                                    <div class="counterdown">
+                                        <span>KELAS</span>
+                                        <span>ONLINE</span>
+                                        <span></span>
+                                    </div>
+                                    <div class="un-info-card">
+                                        <div class="block-left">
+                                            <h4>日本語の介護</h4>
+                                            <div class="user">
+                                                <picture>
+                                                    <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPb_5ulqrxDpAEC1pnl5X-cf-qydTIfM0UQ&usqp=CAU" type="image/webp">
+                                                    <img class="img-avatar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJPb_5ulqrxDpAEC1pnl5X-cf-qydTIfM0UQ&usqp=CAU" alt="" />
+                                                </source></picture>
+                                                <h5>Tokutei Ginou
+                                            </h5></div>
+                                        </div>
+                                        <div class="block-right">
+                                            <h6>介護士</h6>
+                                            <p>
+                                                <span>706.000.000</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 32 32"><path fill="#5bb986" d="M30.94 15.66A16.69 16.69 0 0 0 16 5A16.69 16.69 0 0 0 1.06 15.66a1 1 0 0 0 0 .68A16.69 16.69 0 0 0 16 27a16.69 16.69 0 0 0 14.94-10.66a1 1 0 0 0 0-.68ZM16 25c-5.3 0-10.9-3.93-12.93-9C5.1 10.93 10.7 7 16 7s10.9 3.93 12.93 9C26.9 21.07 21.3 25 16 25Z"/><path fill="#5bb986" d="M16 10a6 6 0 1 0 6 6a6 6 0 0 0-6-6Zm0 10a4 4 0 1 1 4-4a4 4 0 0 1-4 4Z"/></path></path></svg>
+                                            </p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- item-card-nft -->
+                                <a href="page-collectibles-details.html" class="item-card-nft --swiper">
+                                    <picture>
+                                        <source srcset="https://i.ibb.co/xgYnYQq/20220305-172143.png" type="image/webp">
+                                        <img class="big-image" src="https://i.ibb.co/xgYnYQq/20220305-172143.png" alt="" />
+                                    </source></picture>
+                                    <div class="counterdown">
+                                        <span>KELAS</span>
+                                        <span>ONLINE</span>
+                                        <span></span>
+                                    </div>
+                                    <div class="un-info-card">
+                                        <div class="block-left">
+                                            <h4>日本語の農業</h4>
+                                            <div class="user">
+                                                <picture>
+                                                    <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrODydpL3wNIbF5A1jXPAeLk_PUNRCYyb3g&usqp=CAU" type="image/webp">
+                                                    <img class="img-avatar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrODydpL3wNIbF5A1jXPAeLk_PUNRCYyb3g&usqp=CAU" alt="" />
+                                                </source></picture>
+                                                <h5>Tokutei Ginou
+                                            </h5></div>
+                                        </div>
+                                        <div class="block-right">
+                                            <h6>農業</h6>
+                                            <p>
+                                                <span>485.000.000</span>
+                                                 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 32 32"><path fill="#5bb986" d="M30.94 15.66A16.69 16.69 0 0 0 16 5A16.69 16.69 0 0 0 1.06 15.66a1 1 0 0 0 0 .68A16.69 16.69 0 0 0 16 27a16.69 16.69 0 0 0 14.94-10.66a1 1 0 0 0 0-.68ZM16 25c-5.3 0-10.9-3.93-12.93-9C5.1 10.93 10.7 7 16 7s10.9 3.93 12.93 9C26.9 21.07 21.3 25 16 25Z"/><path fill="#5bb986" d="M16 10a6 6 0 1 0 6 6a6 6 0 0 0-6-6Zm0 10a4 4 0 1 1 4-4a4 4 0 0 1-4 4Z"/></path></path></svg>
+                                            </p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- item-card-nft -->
+                                <a href="page-collectibles-details.html" class="item-card-nft --swiper">
+                                    <picture>
+                                        <source srcset="https://i.ibb.co/y6qCzHy/20220305-174933.png" type="image/webp">
+                                        <img class="big-image" src="https://i.ibb.co/y6qCzHy/20220305-174933.png" alt="" />
+                                    </source></picture>
+                                    <div class="counterdown">
+                                        <span>KELAS</span>
+                                        <span>ONLINE</span>
+                                        <span></span>
+                                    </div>
+                                    <div class="un-info-card">
+                                        <div class="block-left">
+                                            <h4>日本語の漁業</h4>
+                                            <div class="user">
+                                                <picture>
+                                                    <source srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymVFAvjawaKEFB42NrZigbxXgsjWQxLH-gA&usqp=CAU" type="image/webp">
+                                                    <img class="img-avatar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymVFAvjawaKEFB42NrZigbxXgsjWQxLH-gA&usqp=CAU" alt="" />
+                                                </source></picture>
+                                                <h5>Tokutei Ginou
+                                            </h5></div>
+                                        </div>
+                                        <div class="block-right">
+                                            <h6>漁師</h6>
+                                            <p>
+                                                <span>329.000.000</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 32 32"><path fill="#5bb986" d="M30.94 15.66A16.69 16.69 0 0 0 16 5A16.69 16.69 0 0 0 1.06 15.66a1 1 0 0 0 0 .68A16.69 16.69 0 0 0 16 27a16.69 16.69 0 0 0 14.94-10.66a1 1 0 0 0 0-.68ZM16 25c-5.3 0-10.9-3.93-12.93-9C5.1 10.93 10.7 7 16 7s10.9 3.93 12.93 9C26.9 21.07 21.3 25 16 25Z"/><path fill="#5bb986" d="M16 10a6 6 0 1 0 6 6a6 6 0 0 0-6-6Zm0 10a4 4 0 1 1 4-4a4 4 0 0 1-4 4Z"/></path></path></svg>
+                                            </p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section></div>
+
+                    <div class="discover-nft-random bg-white py-3">
+                        <div class="content-NFTs-body">
+                 <div class="grid-item">
+                                <!-- item-sm-card-NFTs -->
+                                <a href="page-collectibles-details.html" class="item-sm-card-NFTs">
+                                    <div class="cover-image">
+                                        <picture>
+                                            <source srcset="https://i.ibb.co/crfzbsq/20220305-180754.png" type="image/webp">
+                                            <img class="big-image" src="https://i.ibb.co/crfzbsq/20220305-180754.png" alt="" />
+                                        </source></picture>
+
+<div class="content-text">
+                                            <div class="icon-type">
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="m17 9.2l5.213-3.65a.5.5 0 0 1 .787.41v12.08a.5.5 0 0 1-.787.41L17 14.8V19a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v4.2zm0 3.159l4 2.8V8.84l-4 2.8v.718zM3 6v12h12V6H3zm2 2h2v2H5V8z"/></path></svg>
+                                            </div>  
+
+                                        <div class="content-text">
+                                            <div class="btn-like-click">
+                                                <div class="btnLike">
+                                                    <input type="checkbox" />
+                                                    <span class="count-likes">885Jt</span>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 48 48"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M15 8C8.925 8 4 12.925 4 19c0 11 13 21 20 23.326C31 40 44 30 44 19c0-6.075-4.925-11-11-11c-3.72 0-7.01 1.847-9 4.674A10.987 10.987 0 0 0 15 8Z"/></path></svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="user-text">
+                                            <div class="user-avatar">
+                                                <picture>
+                                                    <source srcset="https://i.ibb.co/crfzbsq/20220305-180754.png" type="image/webp">
+                                                    <img class="sm-user" src="https://i.ibb.co/crfzbsq/20220305-180754.png" alt="" />
+                                                </source></picture>
+                                              <span>日本語の会話</span>
+                                            </div>
+                                            <div class="number-eth">
+                                                <span class="main-price">Percakapan</span>
+                                                <span>会話</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div></a>
+                                <!-- item-sm-card-NFTs -->
+                                <a href="page-collectibles-details.html" class="item-sm-card-NFTs">
+                                    <div class="cover-image">
+                                        <picture>
+                                            <source srcset="https://i.ibb.co/3RZXnwj/20220305-182138.png" type="image/webp">
+                                            <img class="big-image" src="https://i.ibb.co/3RZXnwj/20220305-182138.png" alt="" />
+                                        </source></picture>
+                                        <div class="content-text">
+                                            <div class="icon-type">
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="m17 9.2l5.213-3.65a.5.5 0 0 1 .787.41v12.08a.5.5 0 0 1-.787.41L17 14.8V19a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v4.2zm0 3.159l4 2.8V8.84l-4 2.8v.718zM3 6v12h12V6H3zm2 2h2v2H5V8z"/></path></svg>
+                                            </div>
+
+                                            <div class="btn-like-click">
+                                                <div class="btnLike">
+                                                    <input type="checkbox" />
+                                                    <span class="count-likes">874Jt</span>
+                                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 48 48"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M15 8C8.925 8 4 12.925 4 19c0 11 13 21 20 23.326C31 40 44 30 44 19c0-6.075-4.925-11-11-11c-3.72 0-7.01 1.847-9 4.674A10.987 10.987 0 0 0 15 8Z"/></path></svg>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="user-text">
+                                            <div class="user-avatar">
+                                                <picture>
+                                                    <source srcset="https://i.ibb.co/3RZXnwj/20220305-182138.png" type="image/webp">
+                                                    <img class="sm-user" src="https://i.ibb.co/3RZXnwj/20220305-182138.png" alt="" />
+                                                </source></picture>
+
+                                                <span>日本語</span>
+                                            </div>
+                                            <div class="number-eth">
+                                                <span class="main-price">Bahasa Jepang</span>
+                                                <span>日本</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    
+
+                    <div class="space-items"></div>
+
+<!-- ===================================
+              START THE NFT SWIPER
+            ==================================== -->
+            <section class="unSwiper-cards margin-t-20">
+                <!-- un-title-default -->
+                <div class="un-title-default">
+                    <div class="text">
+                        <h2>Learning Materials</h2>
+                        <p>There are various learning materials that you can choose</p>
+                    </div>
+                    <div class="un-block-right">
+                        <a href="page-search-grid.html" class="icon-back" aria-label="iconBtn">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243l-1.414-1.415z"/></path></svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="content-cards-NFTs margin-t-20">
+                    <div class="swiper cardGradual">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <!-- item-card-gradual -->
+                                <div class="item-card-gradual">
+                                    <!-- <div class="head-card"></div> -->
+                                    <a href="page-collectibles-details.html" class="body-card">
+                                        <div class="cover-nft">
+                                            <picture>
+                                                <source srcset="images/other/26.webp" type="image/webp">
+                                                <img class="img-cover" src="images/other/26.jpg" alt="image NFT" />
+                                            </source></picture>
+                                            <div class="icon-type">
+                                                <i class="ri-vidicon-line"></i>
+                                            </div>
+                                            <div class="countdown-time">
+                                                <span>08H 38M 16S</span>
+                                            </div>
+                                        </div>
+                                        <div class="title-card-nft">
+                                            <div class="side-one">
+                                                <h2>The Dark Corner</h2>
+                                                <p>8 Editions Minted</p>
+                                            </div>
+                                            <div class="side-other">
+                                                <span class="no-sales">3 for sale</span>
+                                            </div>
+                                        </div>
+                                        <div class="creator-name">
+                                            <div class="image-user">
+                                                <picture>
+                                                    <source srcset="images/avatar/14.webp" type="image/webp">
+                                                    <img class="img-avatar" src="images/avatar/14.jpg" alt="" />
+                                                </source></picture>
+                                                <div class="icon">
+                                                    <i class="ri-checkbox-circle-fill"></i>
+                                                </div>
+                                            </div>
+                                            <h3>Settimio Loggia</h3>
+                                        </div>
+                                    </a>
+                                    <div class="footer-card">
+                                        <div class="starting-bad">
+                                            <h4>2.78 ETH</h4>
+                                            <span>Starting Bid</span>
+                                        </div>
+                                        <div class="btn-like-click">
+                                            <div class="btnLike">
+                                                <input type="checkbox" />
+                                                <span class="count-likes">195</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- item-card-gradual -->
+                                <div class="item-card-gradual">
+                                    <!-- <div class="head-card"></div> -->
+                                    <a href="page-collectibles-details.html" class="body-card">
+                                        <div class="cover-nft">
+                                            <picture>
+                                                <source srcset="images/other/14.webp" type="image/webp">
+                                                <img class="img-cover" src="images/other/14.jpg" alt="image NFT" />
+                                            </source></picture>
+                                            <div class="countdown-time">
+                                                <span>08H 38M 16S</span>
+                                            </div>
+                                        </div>
+                                        <div class="title-card-nft">
+                                            <div class="side-one">
+                                                <h2>Galaxy on Earth</h2>
+                                                <p>6 Editions Minted</p>
+                                            </div>
+                                            <div class="side-other">
+                                                <span class="no-sales">2 for sale</span>
+                                            </div>
+                                        </div>
+                                        <div class="creator-name">
+                                            <div class="image-user">
+                                                <picture>
+                                                    <source srcset="images/avatar/21.webp" type="image/webp">
+                                                    <img class="img-avatar" src="images/avatar/21.jpg" alt="" />
+                                                </source></picture>
+                                                <div class="icon">
+                                                    <i class="ri-checkbox-circle-fill"></i>
+                                                </div>
+                                            </div>
+                                            <h3>Leda Beneventi</h3>
+                                        </div>
+                                    </a>
+                                    <div class="footer-card">
+                                        <div class="starting-bad">
+                                            <h4>2.40 ETH</h4>
+                                            <span>Starting Bid</span>
+                                        </div>
+                                        <div class="btn-like-click">
+                                            <div class="btnLike">
+                                                <input type="checkbox" checked />
+                                                <span class="count-likes">164</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- item-card-gradual -->
+                                <div class="item-card-gradual">
+                                    <!-- <div class="head-card"></div> -->
+                                    <a href="page-collectibles-details.html" class="body-card">
+                                        <div class="cover-nft">
+                                            <picture>
+                                                <source srcset="images/other/27.webp" type="image/webp">
+                                                <img class="img-cover" src="images/other/27.jpg" alt="image NFT" />
+                                            </source></picture>
+                                            <div class="countdown-time">
+                                                <span>08H 38M 16S</span>
+                                            </div>
+                                        </div>
+                                        <div class="title-card-nft">
+                                            <div class="side-one">
+                                                <h2>The Scary Shib</h2>
+                                                <p>8 Editions Minted</p>
+                                            </div>
+                                            <div class="side-other">
+                                                <span class="no-sales">3 for sale</span>
+                                            </div>
+                                        </div>
+                                        <div class="creator-name">
+                                            <div class="image-user">
+                                                <picture>
+                                                    <source srcset="images/avatar/13.webp" type="image/webp">
+                                                    <img class="img-avatar" src="images/avatar/13.jpg" alt="" />
+                                                </source></picture>
+                                                <div class="icon">
+                                                    <i class="ri-checkbox-circle-fill"></i>
+                                                </div>
+                                            </div>
+                                            <h3>Bruce Wheless</h3>
+                                        </div>
+                                    </a>
+                                    <div class="footer-card">
+                                        <div class="starting-bad">
+                                            <h4>1.27 ETH</h4>
+                                            <span>Starting Bid</span>
+                                        </div>
+                                        <div class="btn-like-click">
+                                            <div class="btnLike">
+                                                <input type="checkbox" />
+                                                <span class="count-likes">95</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- item-card-gradual -->
+                                <div class="item-card-gradual">
+                                    <!-- <div class="head-card"></div> -->
+                                    <a href="page-collectibles-details.html" class="body-card">
+                                        <div class="cover-nft">
+                                            <picture>
+                                                <source srcset="images/other/16.webp" type="image/webp">
+                                                <img class="img-cover" src="images/other/16.jpg" alt="image NFT" />
+                                            </source></picture>
+                                            <div class="icon-type">
+                                                <i class="ri-vidicon-line"></i>
+                                            </div>
+
+                                        </div>
+                                        <div class="title-card-nft">
+                                            <div class="side-one">
+                                                <h2>The Dark Corner</h2>
+                                                <p>25 Editions Minted</p>
+                                            </div>
+                                            <div class="side-other">
+                                                <span class="no-sales">5 for sale</span>
+                                            </div>
+                                        </div>
+                                        <div class="creator-name">
+                                            <div class="image-user">
+                                                <picture>
+                                                    <source srcset="images/avatar/17.webp" type="image/webp">
+                                                    <img class="img-avatar" src="images/avatar/17.jpg" alt="" />
+                                                </source></picture>
+                                                <div class="icon">
+                                                    <i class="ri-checkbox-circle-fill"></i>
+                                                </div>
+                                            </div>
+                                            <h3>Steve Jones</h3>
+                                        </div>
+                                    </a>
+                                    <div class="footer-card">
+                                        <div class="starting-bad">
+                                            <h4>1.29 ETH</h4>
+                                            <span>Starting Bid</span>
+                                        </div>
+                                        <div class="btn-like-click">
+                                            <div class="btnLike">
+                                                <input type="checkbox" />
+                                                <span class="count-likes">195</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- item-card-gradual -->
+                                <div class="item-card-gradual">
+                                    <!-- <div class="head-card"></div> -->
+                                    <a href="page-collectibles-details.html" class="body-card">
+                                        <div class="cover-nft">
+                                            <picture>
+                                                <source srcset="images/other/21.webp" type="image/webp">
+                                                <img class="img-cover" src="images/other/21.jpg" alt="image NFT" />
+                                            </source></picture>
+                                            <div class="countdown-time">
+                                                <span>08H 38M 16S</span>
+                                            </div>
+                                        </div>
+                                        <div class="title-card-nft">
+                                            <div class="side-one">
+                                                <h2>Ecstasy of the Dead</h2>
+                                                <p>350 Editions Minted</p>
+                                            </div>
+                                            <div class="side-other">
+                                                <span class="no-sales">9 for sale</span>
+                                            </div>
+                                        </div>
+                                        <div class="creator-name">
+                                            <div class="image-user">
+                                                <picture>
+                                                    <source srcset="images/avatar/19.webp" type="image/webp">
+                                                    <img class="img-avatar" src="images/avatar/19.jpg" alt="" />
+                                                </source></picture>
+                                                <div class="icon">
+                                                    <i class="ri-checkbox-circle-fill"></i>
+                                                </div>
+                                            </div>
+                                            <h3>Hunter Taylor</h3>
+                                        </div>
+                                    </a>
+                                    <div class="footer-card">
+                                        <div class="starting-bad">
+                                            <h4>1.79 ETH</h4>
+                                            <span>Starting Bid</span>
+                                        </div>
+                                        <div class="btn-like-click">
+                                            <div class="btnLike">
+                                                <input type="checkbox" />
+                                                <span class="count-likes">297</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <!-- item-card-gradual -->
+                                <div class="item-card-gradual">
+                                    <!-- <div class="head-card"></div> -->
+                                    <a href="page-collectibles-details.html" class="body-card">
+                                        <div class="cover-nft">
+                                            <picture>
+                                                <source srcset="images/other/6.webp" type="image/webp">
+                                                <img class="img-cover" src="images/other/6.jpg" alt="image NFT" />
+                                            </source></picture>
+                                            <div class="icon-type">
+                                                <i class="ri-vidicon-line"></i>
+                                            </div>
+                                            <div class="countdown-time">
+                                                <span>08H 38M 16S</span>
+                                            </div>
+                                        </div>
+                                        <div class="title-card-nft">
+                                            <div class="side-one">
+                                                <h2>The Moon Boi</h2>
+                                                <p>14 Editions Minted</p>
+                                            </div>
+                                            <div class="side-other">
+                                                <span class="no-sales">2 for sale</span>
+                                            </div>
+                                        </div>
+                                        <div class="creator-name">
+                                            <div class="image-user">
+                                                <picture>
+                                                    <source srcset="images/avatar/18.webp" type="image/webp">
+                                                    <img class="img-avatar" src="images/avatar/18.jpg" alt="" />
+                                                </source></picture>
+                                                <div class="icon">
+                                                    <i class="ri-checkbox-circle-fill"></i>
+                                                </div>
+                                            </div>
+                                            <h3>Craig Leach</h3>
+                                        </div>
+                                    </a>
+                                    <div class="footer-card">
+                                        <div class="starting-bad">
+                                            <h4>2.78 ETH</h4>
+                                            <span>Starting Bid</span>
+                                        </div>
+                                        <div class="btn-like-click">
+                                            <div class="btnLike">
+                                                <input type="checkbox" />
+                                                <span class="count-likes">195</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- ===================================
+              START THE CREATORES
+            ==================================== -->
+            <section class="margin-t-20 unList-creatores">
+                <!-- un-title-default -->
+                <div class="un-title-default">
+                    <div class="text">
+                        <h2>Creators</h2>
+                        <p>You can follow many Creators</p>
+                    </div>
+                    <div class="un-block-right">
+                        <a href="page-creators.html" class="icon-back" aria-label="iconBtn">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243l-1.414-1.415z"/></path></svg>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="content-list-creatores">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-creator-profile.html">
+                                <div class="item-user-img">
+                                    <picture>
+                                        <source srcset="images/avatar/13.webp" type="image/webp">
+                                        <img class="avt-img" src="images/avatar/13.jpg" alt="" />
+                                    </source></picture>
+                                    <div class="txt-user">
+                                        <h5>Richard Noga</h5>
+                                        <p>$9,500.32</p>
+                                    </div>
+                                </div>
+                                <div class="other-option">
+                                    <div class="color-text rounded-pill bg-snow btn-xs-size">44 Item</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-creator-profile.html">
+                                <div class="item-user-img">
+                                    <picture>
+                                        <source srcset="images/avatar/7.webp" type="image/webp">
+                                        <img class="avt-img" src="images/avatar/7.jpg" alt="" />
+                                    </source></picture>
+                                    <div class="txt-user">
+                                        <h5>Tito_Calab</h5>
+                                        <p>$8,382.32</p>
+                                    </div>
+                                </div>
+                                <div class="other-option">
+                                    <div class="color-text rounded-pill bg-snow btn-xs-size">37 Item</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-creator-profile.html">
+                                <div class="item-user-img">
+                                    <picture>
+                                        <source srcset="images/avatar/4.webp" type="image/webp">
+                                        <img class="avt-img" src="images/avatar/4.jpg" alt="" />
+                                    </source></picture>
+                                    <div class="txt-user">
+                                        <h5>Settimio Loggia</h5>
+                                        <p>$6,920.00</p>
+                                    </div>
+                                </div>
+                                <div class="other-option">
+                                    <div class="color-text rounded-pill bg-snow btn-xs-size">30 Item</div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-creator-profile.html">
+                                <div class="item-user-img">
+                                    <picture>
+                                        <source srcset="images/avatar/1.webp" type="image/webp">
+                                        <img class="avt-img" src="images/avatar/1.jpg" alt="user" />
+                                    </source></picture>
+                                    <div class="txt-user">
+                                        <h5>Vinicius O.</h5>
+                                        <p>$4,500.32</p>
+                                    </div>
+                                </div>
+                                <div class="other-option">
+                                    <div class="color-text rounded-pill bg-snow btn-xs-size">20 Item</div>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- ===================================
+          START THE BOTTOM NAVIGATION
+        ==================================== -->
+        <footer class="un-bottom-navigation filter-blur">
+            <div class="em_body_navigation border-0 -active-links">
+                <div class="item_link">
+                    <a href="homepage.html" class="btn btn_navLink" aria-label="btnNavigation">
+                        <div class="icon_current">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M13 19h6V9.978l-7-5.444l-7 5.444V19h6v-6h2v6zm8 1a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.49a1 1 0 0 1 .386-.79l8-6.222a1 1 0 0 1 1.228 0l8 6.222a1 1 0 0 1 .386.79V20z"/></path></svg>
+                        </div>
+                        <div class="icon_active">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M13 19h6V9.978l-7-5.444l-7 5.444V19h6v-6h2v6zm8 1a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.49a1 1 0 0 1 .386-.79l8-6.222a1 1 0 0 1 1.228 0l8 6.222a1 1 0 0 1 .386.79V20z"/></path></svg>
+                        </div>
+                    </a>
+                </div>
+                <div class="item_link">
+                    <a href="page-search-random.html" class="btn btn_navLink" aria-label="btnNavigation">
+                        <div class="icon_current">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M11 2c4.968 0 9 4.032 9 9s-4.032 9-9 9s-9-4.032-9-9s4.032-9 9-9zm0 16c3.867 0 7-3.133 7-7c0-3.868-3.133-7-7-7c-3.868 0-7 3.132-7 7c0 3.867 3.132 7 7 7zm8.485.071l2.829 2.828l-1.415 1.415l-2.828-2.829l1.414-1.414z"/></path></svg>
+                        </div>
+                        <div class="icon_active">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M11 2c4.968 0 9 4.032 9 9s-4.032 9-9 9s-9-4.032-9-9s4.032-9 9-9zm0 16c3.867 0 7-3.133 7-7c0-3.868-3.133-7-7-7c-3.868 0-7 3.132-7 7c0 3.867 3.132 7 7 7zm8.485.071l2.829 2.828l-1.415 1.415l-2.828-2.829l1.414-1.414z"/></path></svg>
+                        </div>
+                    </a>
+                </div>
+                <div class="item_link">
+                    <button type="button" name="uploadItem" aria-label="uploadItem"
+                        class="btn btn_navLink without_active" data-bs-toggle="modal" data-bs-target="#mdllUploadItem"
+                        aria-label="btnNavigation">
+                        <div class="btn btnCircle_default">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M21 8a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-1.062A8.001 8.001 0 0 1 12 23v-2a6 6 0 0 0 6-6V9A6 6 0 1 0 6 9v7H3a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h1.062a8.001 8.001 0 0 1 15.876 0H21zM7.76 15.785l1.06-1.696A5.972 5.972 0 0 0 12 15a5.972 5.972 0 0 0 3.18-.911l1.06 1.696A7.963 7.963 0 0 1 12 17a7.963 7.963 0 0 1-4.24-1.215z"/></path></svg>
+                        </div>
+                    </button>
+                </div>
+                <div class="item_link">
+                    <a href="page-favourit-random.html" class="btn btn_navLink" aria-label="btnNavigation">
+                        <div class="icon_current">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+                        </div>
+                        <div class="icon_active">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M16.5 3C19.538 3 22 5.5 22 9c0 7-7.5 11-10 12.5C9.5 20 2 16 2 9c0-3.5 2.5-6 5.5-6C9.36 3 11 4 12 5c1-1 2.64-2 4.5-2zm-3.566 15.604a26.953 26.953 0 0 0 2.42-1.701C18.335 14.533 20 11.943 20 9c0-2.36-1.537-4-3.5-4c-1.076 0-2.24.57-3.086 1.414L12 7.828l-1.414-1.414C9.74 5.57 8.576 5 7.5 5C5.56 5 4 6.656 4 9c0 2.944 1.666 5.533 4.645 7.903c.745.592 1.54 1.145 2.421 1.7c.299.189.595.37.934.572c.339-.202.635-.383.934-.571z"/></path></svg>
+                        </div>
+                    </a>
+                </div>
+                <div class="item_link">
+                    <a href="page-account.html" class="btn btn_navLink" aria-label="btnNavigation">
+                        <div class="icon_current">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M5 20h14v2H5v-2zm7-2a8 8 0 1 1 0-16a8 8 0 0 1 0 16zm0-2a6 6 0 1 0 0-12a6 6 0 0 0 0 12z"/></path></svg>
+                        </div>
+                        <div class="icon_active">
+                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="white" d="M5 20h14v2H5v-2zm7-2a8 8 0 1 1 0-16a8 8 0 0 1 0 16zm0-2a6 6 0 1 0 0-12a6 6 0 0 0 0 12z"/></path></svg>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- ===================================
+      START THE MODAL UPLOAD
+    ==================================== -->
+    <div class="modal transition-bottom screenFull defaultModal mdlladd__rate fade" id="mdllUploadItem" tabindex="-1"
+        aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="title-modal">Customer Service</h1>
+                    <button type="button" class="btn btnClose" data-bs-dismiss="modal" aria-label="Close">
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="100" height="100" preserveaspectratio="xMidYMid meet" viewbox="0 0 1024 1024"><path fill="white" d="M195.2 195.2a64 64 0 0 1 90.496 0L512 421.504L738.304 195.2a64 64 0 0 1 90.496 90.496L602.496 512L828.8 738.304a64 64 0 0 1-90.496 90.496L512 602.496L285.696 828.8a64 64 0 0 1-90.496-90.496L421.504 512L195.2 285.696a64 64 0 0 1 0-90.496z"/></path></svg>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="content-upload-item text-center">
+                        <p>
+                          こんにちは  <span>"Hai, Kakak!" </span> Apakah kakak ingin Menanyakan Sesuatu? klik Customer Service kita dibawah untuk mengirimkan sebuah pertanyaan ya kak. 
+                        </p>
+                        <div class="unList-creatores follow-sellers bg-white py-3">
+                        <div class="content-list-creatores">
+                            <ul class="nav flex-column">
+<li class="nav-item">
+                                    <div class="nav-link">
+                                        <a href="page-creator-profile.html" class="item-user-img">
+                                            <div class="wrapper-image">
+                                                <picture>
+                                                    <source srcset="https://i.ibb.co/s5xKGL8/246151182-3179871495568883-5419872204469243996-n.jpg" type="image/webp">
+                                                    <img class="avt-img" src="https://i.ibb.co/s5xKGL8/246151182-3179871495568883-5419872204469243996-n.jpg" alt="" />
+                                                </source></picture>
+                                  <div class="icon"></div>              
+                                            </div>
+                                            <div class="txt-user">
+                                                <h5>wahyu saputra <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24"><path fill="green" d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10zm-.997-6l7.07-7.071l-1.414-1.414l-5.656 5.657l-2.829-2.829l-1.414 1.414L11.003 16z"/></path></svg></h5>
+                                                <p>Customer Service</p>
+                                            </div>
+                                        </a>
+                                        <div class="other-option">
+                                            <button type="button"
+                                                class="btn btn-sm-size bg-white text-dark border rounded-pill">Chat</button>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+
+
+                                
+</ul>
+                        </div>
+                    </div>
+
+                    </div>
+
+                </div>
+                <div class="modal-footer border-0">
+                    <div class="env-pb"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<!-- ===================================
+      START THE MODAL SIDEBAR MENU - CONNECTED
+    ==================================== -->
+    <div class="modal sidebarMenu -left fade" id="mdllSidebar-connected" tabindex="-1"
+        aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header d-block pb-1">
+
+                    <!-- un-user-profile -->
+                    <div class="un-user-profile">
+                        <div class="image_user">
+                            <picture>
+                                <source srcset="images/avatar/11.webp" type="image/webp">
+                                <img src="images/avatar/11.jpg" alt="image" />
+                            </source></picture>
+                        </div>
+                        <div class="text-user">
+                            <h3>Rocco Gavin</h3>
+                            <p>0xe3oowe0b88...E162</p>
+                        </div>
+                    </div>
+
+                    <button type="button" class="btn btnClose" data-bs-dismiss="modal" aria-label="Close">
+                        <i class="ri-close-fill"></i>
+                    </button>
+
+                    <!-- cover-balance -->
+                    <div class="cover-balance">
+                        <div class="un-balance">
+                            <div class="content-balance">
+                                <div class="head-balance">
+                                    <h4>My Balance</h4>
+                                    <a class="btn link-addBalance" data-bs-toggle="modal" data-bs-dismiss="modal"
+                                        data-bs-target="#mdllAddETH">
+                                        <i class="ri-add-fill"></i>
+                                    </a>
+                                </div>
+                                <p class="no-balance">3,650 ETH</p>
+                            </div>
+                        </div>
+                        <button type="button" class="btn btn-sm-size bg-white text-dark rounded-pill"
+                            data-bs-toggle="modal" data-bs-dismiss="modal" data-bs-target="#mdllUploadItem">
+                            Create
+                        </button>
+                    </div>
+
+
+                </div>
+                <div class="modal-body">
+                    <ul class="nav flex-column -active-links">
+                        <li class="nav-item">
+                            <a class="nav-link" href="homepage.html">
+                                <div class="icon_current">
+                                    <i class="ri-compass-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-compass-fill"></i>
+                                </div>
+                                <span class="title_link">Discover</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="app-homes.html">
+                                <div class="icon_current">
+                                    <i class="ri-home-5-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-home-5-fill"></i>
+                                </div>
+                                <span class="title_link">Home Styles</span>
+
+                                <span class="xs-badge">3</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="app-pages.html">
+                                <div class="icon_current">
+                                    <i class="ri-pages-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-pages-fill"></i>
+                                </div>
+                                <span class="title_link">Page Packs</span>
+
+                                <div class="badge-circle">
+                                    <span class="doted_item"></span>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="app-components.html">
+                                <div class="icon_current">
+                                    <i class="ri-layout-2-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-layout-2-fill"></i>
+                                </div>
+                                <span class="title_link">Components</span>
+
+                            </a>
+                        </li>
+
+                        <label class="title__label">other</label>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-help.html">
+                                <div class="icon_current">
+                                    <i class="ri-questionnaire-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-questionnaire-fill"></i>
+                                </div>
+                                <span class="title_link">Help Center</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-about.html">
+                                <div class="icon_current">
+                                    <i class="ri-file-info-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-file-info-fill"></i>
+                                </div>
+                                <span class="title_link">About Unic.</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="homepage.html" class="nav-link">
+                                <div class="icon_current">
+                                    <i class="ri-logout-box-r-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-logout-box-r-fill"></i>
+                                </div>
+                                <span class="title_link">Sign Out</span>
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="modal-footer">
+                    <div class="em_darkMode_menu">
+                        <label class="text" for="switchDark">
+                            <h3>Dark Mode</h3>
+                            <p>Browsing in night mode</p>
+                        </label>
+                        <label class="switch_toggle toggle_lg theme-switch" for="switchDark">
+                            <input type="checkbox" class="switchDarkMode theme-switch" id="switchDark" 
+ aria-describedby="switchDark" />
+                            <span class="handle"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ===================================
+      START THE MODAL SIDEBAR MENU - guest
+    ==================================== -->
+    <div class="modal sidebarMenu -left -guest fade" id="mdllSidebar-guest" tabindex="-1"
+        aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="welcome_em">
+                        <h2>Welcome to Unic<span>.</span></h2>
+                        <p>
+                            Connect wallet to browse, Buy, Sell, and create NFTs items.
+                        </p>
+                        <a href="page-connect-wallet.html" class="btn btn-md-size bg-primary text-white rounded-pill">
+                            Connect wallet
+                        </a>
+                    </div>
+                    <button type="button" class="btn btnClose" data-bs-dismiss="modal" aria-label="Close">
+                        <i class="ri-close-fill"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <ul class="nav flex-column -active-links">
+                        <li class="nav-item">
+                            <a class="nav-link" href="homepage.html">
+                                <div class="icon_current">
+                                    <i class="ri-compass-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-compass-fill"></i>
+                                </div>
+                                <span class="title_link">Discover</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="app-homes.html">
+                                <div class="icon_current">
+                                    <i class="ri-home-5-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-home-5-fill"></i>
+                                </div>
+                                <span class="title_link">Home Styles</span>
+
+                                <span class="xs-badge">3</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="app-pages.html">
+                                <div class="icon_current">
+                                    <i class="ri-pages-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-pages-fill"></i>
+                                </div>
+                                <span class="title_link">Page Packs</span>
+
+                                <div class="badge-circle">
+                                    <span class="doted_item"></span>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="app-components.html">
+                                <div class="icon_current">
+                                    <i class="ri-layout-2-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-layout-2-fill"></i>
+                                </div>
+                                <span class="title_link">Components</span>
+
+                            </a>
+                        </li>
+
+                        <label class="title__label">other</label>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-help.html">
+                                <div class="icon_current">
+                                    <i class="ri-questionnaire-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-questionnaire-fill"></i>
+                                </div>
+                                <span class="title_link">Help Center</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="page-about.html">
+                                <div class="icon_current">
+                                    <i class="ri-file-info-line"></i>
+                                </div>
+                                <div class="icon_active">
+                                    <i class="ri-file-info-fill"></i>
+                                </div>
+                                <span class="title_link">About Unic.</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modal-footer">
+                    <div class="em_darkMode_menu">
+                        <label class="text" for="switchDark2">
+                            <h3>Dark Mode</h3>
+                            <p>Browsing in night mode</p>
+                        </label>
+                        <label class="switch_toggle toggle_lg theme-switch" for="switchDark2">
+                            <input type="checkbox" class="switchDarkMode theme-switch" id="switchDark2" 
+ aria-describedby="switchDark2" aria-describedby="switchDark2" />
+                            <span class="handle"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ===================================
+      START STATUS CONNECTION
+    ==================================== -->
+    <div class="d-flex justify-content-center">
+        <div class="toast status-connection" role="alert" aria-live="assertive" aria-atomic="true"></div>
+    </div>
+
+
+<!-- ===================================
+      START THE MODAL ADD ETH
+    ==================================== -->
+    <div class="modal transition-bottom screenFull defaultModal mdlladd__rate fade" id="mdllAddETH" tabindex="-1"
+        aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="title-modal">Add ETH to your wallet</h1>
+                    <button type="button" class="btn btnClose" data-bs-dismiss="modal" aria-label="Close">
+                        <i class="ri-close-fill"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="content-upload-item">
+                        <p class="text-center">
+                            Select one of the options to deposit <br /> ETH to your wallet
+                        </p>
+                        <div class="un-navMenu-default margin-t-30 p-0">
+                            <ul class="nav flex-column">
+                                <li class="nav-item mb-3">
+                                    <a class="nav-link effect-click" href="javascript: void(0)">
+                                        <div class="item-content-link">
+                                            <div class="icon color-text w-auto">
+                                                <i class="ri-exchange-box-line"></i>
+                                            </div>
+                                            <h3 class="link-title">Deposit from an exchange</h3>
+                                        </div>
+                                        <div class="other-cc">
+                                            <span class="badge-text"></span>
+                                            <div class="icon-arrow">
+                                                <i class="ri-arrow-drop-right-line"></i>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="nav-item mb-0">
+                                    <a class="nav-link effect-click" href="javascript: void(0)">
+                                        <div class="item-content-link">
+                                            <div class="icon color-text w-auto">
+                                                <i class="ri-bank-card-line"></i>
+                                            </div>
+                                            <h3 class="link-title">Buy with card</h3>
+                                        </div>
+                                        <div class="other-cc">
+                                            <span class="badge-text"></span>
+                                            <div class="icon-arrow">
+                                                <i class="ri-arrow-drop-right-line"></i>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="modal-footer border-0">
+                    <div class="env-pb"></div>
+                </div>
+            </div>
+        </div>
+    </div>
